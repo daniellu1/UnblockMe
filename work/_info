@@ -1,0 +1,668 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Daniel Lu/Documents/USB Backup 20180913/2018-2019 (Second Year)/2018 Fall/ECE241 - Digital Systems/ECE241 Project
+vboardStateFSM
+Z1 !s110 1542994295
+!i10b 1
+!s100 b_A5CYP;zjk4Sh@FQNEze2
+I5NJERk]GZamf6A]2WZmQY1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/2018-2019 (Second Year)/2018 Fall/ECE241 - Digital Systems/ECE241 Project
+Z4 w1542993674
+Z5 8Project.v
+Z6 FProject.v
+L0 188
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1542994294.000000
+Z9 !s107 Project.v|
+Z10 !s90 -reportprogress|300|Project.v|
+!i113 1
+Z11 tCvgOpt 0
+nboard@state@f@s@m
+vboardStateFSM_control
+R1
+!i10b 1
+!s100 jD:ZNL9J3==<?AECb;^4H2
+IBm[@V:?_ef@dBOBl9G`]K0
+R2
+R3
+R4
+R5
+R6
+Z12 L0 222
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+nboard@state@f@s@m_control
+vboardStateFSM_datapath
+R1
+!i10b 1
+!s100 cNkgB>ADl9P[G4U83@n[j3
+Icm>?N608S<mcgA9ZZBJDh3
+R2
+R3
+R4
+R5
+R6
+L0 346
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+nboard@state@f@s@m_datapath
+vboardStateMemory
+Z13 !s110 1542994296
+!i10b 1
+!s100 iO[53H;NLE`J@P6=YjBKX3
+IkA`B0d>^YQ=WVaEWVg4Zg1
+R2
+R3
+R4
+R5
+R6
+L0 1694
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+nboard@state@memory
+vboardStateMemoryHelper
+R13
+!i10b 1
+!s100 UoI_MfTjQUd9:b7GW61zN0
+InUdIQZ_LbGiXA_e6T6od02
+R2
+R3
+R4
+R5
+R6
+L0 1660
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+nboard@state@memory@helper
+vcontrol
+Z14 !s110 1541890316
+!i10b 1
+!s100 QDD5AB`EiAI:[h3`OFZom1
+IjH>0`A^^JgP7lfNY=UI8e3
+R2
+R0
+Z15 w1541799693
+R5
+R6
+L0 278
+R7
+r1
+!s85 0
+31
+Z16 !s108 1541890316.000000
+R9
+R10
+!i113 1
+R11
+vdatapath
+R14
+!i10b 1
+!s100 IO2JSZTSf<bWMHR_2^4Hf0
+Im1R8_TRfD>Bc=6eFlScYB3
+R2
+R0
+R15
+R5
+R6
+L0 361
+R7
+r1
+!s85 0
+31
+R16
+R9
+R10
+!i113 1
+R11
+vdrawControl
+R14
+!i10b 1
+!s100 _O@4=?66S8bI1dSh>3WC@0
+IgN9I;9XLQ6amB142`FG^^3
+R2
+R0
+R15
+R5
+R6
+L0 177
+R7
+r1
+!s85 0
+31
+R16
+R9
+R10
+!i113 1
+R11
+ndraw@control
+vdrawDatapath
+R14
+!i10b 1
+!s100 jI[2PZS@2;<Zm=NH6Cbgi0
+ICV[_Y:;PPezajPYi=KM5C2
+R2
+R0
+R15
+R5
+R6
+L0 73
+R7
+r1
+!s85 0
+31
+R16
+R9
+R10
+!i113 1
+R11
+ndraw@datapath
+vdrawFSM
+R13
+!i10b 1
+!s100 iIK^RRV7CTBCndGzXdGl`2
+IOJhZKb0Qk9aZ9gNP8HE:B3
+R2
+R3
+R4
+R5
+R6
+L0 1069
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+ndraw@f@s@m
+vdrawFSM_control
+R13
+!i10b 1
+!s100 zWVf<9URSnk[iE73onV=m3
+IR=f3f69M8]I?MW_8ddB9j2
+R2
+R3
+R4
+R5
+R6
+L0 1106
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+ndraw@f@s@m_control
+vdrawFSM_datapath
+R13
+!i10b 1
+!s100 :U?[n:?[WUMz;L7[GoBg;2
+I:PWOLhi10>]C?kAk;V]H23
+R2
+R3
+R4
+R5
+R6
+L0 1326
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+ndraw@f@s@m_datapath
+vhex_decoder
+R13
+!i10b 1
+!s100 lg2[aJOkVEXTJc[DML7Ho0
+IA?Sh1HQmdUzez@NF7^[Rb2
+R2
+R3
+R4
+R5
+R6
+L0 1824
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vkeyboard
+!s110 1542642355
+!i10b 1
+!s100 k=h`DU`L[NT>9dKLQWae=1
+IOD1FHJCA>d27RVn]c5GmJ0
+R2
+R3
+w1542641956
+R5
+R6
+L0 126
+R7
+r1
+!s85 0
+31
+!s108 1542642354.000000
+R9
+R10
+!i113 1
+R11
+vkeyboardFSM
+R1
+!i10b 1
+!s100 VEZG65YSROIgd:5e?e84R2
+I9AjPe?a?z@MCf=gA^[T_<0
+R2
+R3
+R4
+R5
+R6
+L0 153
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+nkeyboard@f@s@m
+vmemory
+R13
+!i10b 1
+!s100 NL0^0=gZkh3@<`^aTzg;>2
+IPD2Xf8<4mjUGGaWM3Mm_c3
+R2
+R3
+R4
+R5
+R6
+L0 1762
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vmemoryStore
+R13
+!i10b 1
+!s100 ?@b]nR^9Q=NhnbJTl3c2@0
+IGVncbj^IYdGHgh;E:a0eg0
+R2
+R3
+R4
+R5
+R6
+L0 1579
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+nmemory@store
+vmoveBlockFSM
+R1
+!i10b 1
+!s100 UR64XAYm`Qk40=fc[6JPc3
+I3oLbaiSHT63Q]Nfo5EZd02
+R2
+R3
+R4
+R5
+R6
+L0 588
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+nmove@block@f@s@m
+vmoveBlockFSM_control
+R1
+!i10b 1
+!s100 cf:fQRA[>m@2RXLWKJ>F92
+IkhP7O=Y>NnY=YUzz=jAiE2
+R2
+R3
+R4
+R5
+R6
+L0 634
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+nmove@block@f@s@m_control
+vmoveBlockFSM_datapath
+R13
+!i10b 1
+!s100 ]1T`T_:?cnDgEHAiCiz0Z3
+IYbARDSAHNN@H[7Lb?W[`E0
+R2
+R3
+R4
+R5
+R6
+L0 752
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+nmove@block@f@s@m_datapath
+vmoveFSM
+R14
+!i10b 1
+!s100 ^`b]BIj?Zk6@ebIkA`jN12
+IW`jQ]0=]a7A>1F;4SCzli1
+R2
+R0
+R15
+R5
+R6
+L0 243
+R7
+r1
+!s85 0
+31
+R16
+R9
+R10
+!i113 1
+R11
+nmove@f@s@m
+vProject
+R1
+!i10b 1
+!s100 BT`N6>bI04MG5YfgfllHA2
+I8z`cfge::<7b:o31XbJW<3
+R2
+R3
+R4
+R5
+R6
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+n@project
+vrateDivider
+!s110 1541996547
+!i10b 1
+!s100 ?d=PT4g[Q8U:5Kg1nG:0c1
+IcNcHF9HzEML;dKbfZ6k]@3
+R2
+R0
+w1541996542
+R5
+R6
+L0 338
+R7
+r1
+!s85 0
+31
+!s108 1541996547.000000
+R9
+R10
+!i113 1
+R11
+nrate@divider
+vratedivider
+!s110 1541746975
+!i10b 1
+!s100 =b^4<z^S<HL:NL56l4Aod0
+IH58hmfebnG;ONOmj@?bC]0
+R2
+R0
+w1541746972
+Z17 8drawAndMemory.v
+Z18 FdrawAndMemory.v
+R12
+R7
+r1
+!s85 0
+31
+!s108 1541746975.000000
+Z19 !s107 drawAndMemory.v|
+Z20 !s90 -reportprogress|300|drawAndMemory.v|
+!i113 1
+R11
+vstate_of_board
+Z21 !s110 1542400418
+!i10b 1
+!s100 L0TFm[;OJ6JbZ1]^IJ[Z91
+IAYKe@b0e<6Pi3DhfEIMHU1
+R2
+R3
+Z22 w1542400412
+R5
+R6
+L0 1588
+R7
+r1
+!s85 0
+31
+Z23 !s108 1542400417.000000
+R9
+R10
+!i113 1
+R11
+vtoplevel
+!s110 1541747411
+!i10b 1
+!s100 nV:BVPmboO2CGJjEb60I61
+If2UnFG?3AEL^2C2@><Z=X3
+R2
+R0
+w1541747330
+R17
+R18
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1541747411.000000
+R19
+R20
+!i113 1
+R11
+vupdate_one_block
+R21
+!i10b 1
+!s100 7<fA5UJ>H6f44=1nZNCm?2
+IElzj=0]>zeAIIT6BjK_==1
+R2
+R3
+R22
+R5
+R6
+L0 1375
+R7
+r1
+!s85 0
+31
+R23
+R9
+R10
+!i113 1
+R11
+vupdate_one_block_control
+R21
+!i10b 1
+!s100 @?QP>PEagOaV@^fRfFcPl3
+Ig:D3b24zk<AZCilVS2V3J0
+R2
+R3
+R22
+R5
+R6
+L0 1400
+R7
+r1
+!s85 0
+31
+R23
+R9
+R10
+!i113 1
+R11
+vupdate_one_block_datapath
+R21
+!i10b 1
+!s100 a81_0ZEUh7iX@B`PVVKiW2
+IiF:46KBcd5AG>65=Q<3kJ1
+R2
+R3
+R22
+R5
+R6
+L0 1476
+R7
+r1
+!s85 0
+31
+R23
+R9
+R10
+!i113 1
+R11
+vupdate_state
+R21
+!i10b 1
+!s100 82]dn<Le_R>bV5z`9d_GD3
+I8IVhgH<>`GeNjG<z5zHW^3
+R2
+R3
+R22
+R5
+R6
+L0 1078
+R7
+r1
+!s85 0
+31
+R23
+R9
+R10
+!i113 1
+R11
+vupdate_state_control
+R21
+!i10b 1
+!s100 [dDd6TboULBb[jm5QTC=U1
+IVBFmm3Id2TEV`k7JL@0[h0
+R2
+R3
+R22
+R5
+R6
+L0 1112
+R7
+r1
+!s85 0
+31
+R23
+R9
+R10
+!i113 1
+R11
+vupdate_state_datapath
+R21
+!i10b 1
+!s100 dIBH^OijdV]0GK:[hBe2b0
+I8c:hEz27ZhC8DYAG9h<n_0
+R2
+R3
+R22
+R5
+R6
+L0 1331
+R7
+r1
+!s85 0
+31
+R23
+R9
+R10
+!i113 1
+R11
